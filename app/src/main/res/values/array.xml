@@ -1,0 +1,17 @@
+<resources>
+    <string-array name="spinLevelItems">
+        <item>4 lettres</item>
+        <item>5 lettres</item>
+        <item>6 lettres</item>
+        <item>7 lettres</item>
+    </string-array>
+    <string-array name="spinTimeItems">
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>3 minutes</item>
+        <item>4 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>Pas de limite</item>
+    </string-array>
+</resources>

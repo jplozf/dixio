@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Dixio</string>
+    <string name="lbl_menu_prefs">Préférences</string>
+    <string name="lbl_menu_menu">Menu</string>
+    <string name="str_searching">Recherche en cours...</string>
+    <string name="prf_ODS_settings">Paramètres de l\'ODS</string>
+    <string name="prf_ODS_dialog">Choisissez votre ODS de référence</string>
+    <string name="prf_ODS_summary">Choix de l\'ODS de référence</string>
+    <string name="prf_ODS">ODS</string>
+    <string name="prf_Dico_settings">Paramètres du dictionnaire en ligne</string>
+    <string name="prf_Dico_dialog">Choisissez le dictionnaire en ligne</string>
+    <string name="prf_Dico_summary">Choix du dictionnaire en ligne</string>
+    <string name="prf_Dico">Dictionnaire en ligne</string>
+</resources>

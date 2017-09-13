@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lblODS">
+        <item>ODS2 (1994)</item>
+        <item>ODS3 (1999)</item>
+        <item>ODS4 (2004)</item>
+        <item>ODS5 (2008)</item>
+        <item>ODS6 (2012)</item>
+        <item>ODS7 (2016)</item>
+    </string-array>
+    <string-array name="valODS">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+</resources>

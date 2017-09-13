@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/prf_ODS_settings">
+        <ListPreference
+            android:dialogTitle="@string/prf_ODS_dialog"
+            android:entries="@array/lblODS"
+            android:entryValues="@array/valODS"
+            android:key="prefODS"
+            android:summary="@string/prf_ODS_summary"
+            android:title="@string/prf_ODS"
+            android:defaultValue="7"/>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/prf_Dico_settings">
+        <ListPreference
+            android:dialogTitle="@string/prf_Dico_dialog"
+            android:entries="@array/lblDico"
+            android:entryValues="@array/valDico"
+            android:key="prefOnlineDico"
+            android:summary="@string/prf_Dico_summary"
+            android:title="@string/prf_Dico"
+            android:defaultValue="0"/>
+    </PreferenceCategory>
+</PreferenceScreen>
